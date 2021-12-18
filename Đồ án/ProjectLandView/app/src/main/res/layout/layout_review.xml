@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/container"
+    android:padding="20dp">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:layout_width="match_parent"
+            android:id="@+id/edtSearch"
+            android:layout_height="30dp"
+            android:background="@drawable/custom_editext"
+            android:hint="@string/search"
+            android:backgroundTint="@color/white"
+            android:textSize="15sp"
+            android:fontFamily="@font/lato_regular"
+            android:paddingStart="50dp"
+            android:maxLines="1"
+            android:inputType="text"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/iconSearch"
+            android:src="@drawable/icon_search"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"/>
+
+    </FrameLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/recent"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/lato_regular"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        />
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:padding="20dp"
+        android:id="@+id/recvSearch"/>
+
+</LinearLayout>

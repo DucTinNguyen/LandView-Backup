@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_color">#35ADF6</color>
+    <color name="text_desColor">#2F3864</color>
+    <color name="login_withColor">#676D85</color>
+    <color name="editText_Color">#ECEEF2</color>
+    <color name="container">#F9F9F9</color>
+    <color name="iconBottom">#BDC3C9</color>
+    <color name="indicator">#666666</color>
+    <color name="tripColor">#62C6FF</color>
+    <color name="reviewColor">#f9b300</color>
+    <color name="weatherColor">#6773CA</color>
+    <color name="promotionColor">#F34055</color>
+    <color name="item_News">#F5EDE9</color>
+    <color name="sky_blue">#35ADF6</color>
+</resources>

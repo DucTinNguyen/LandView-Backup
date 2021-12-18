@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="236dp"
+    android:orientation="vertical"
+    tools:context=".Rating.RatingFragment">
+
+    <RatingBar
+        android:id="@+id/rb_raing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:isIndicator="true"
+        android:stepSize="0.5"
+        android:rating="5"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="16dp"
+        >
+        <TextView
+            android:id="@+id/tv_very_good"
+            android:layout_width="96dp"
+            android:layout_height="wrap_content"
+            android:text="Tuyệt vời"
+            android:textSize="16dp"
+            android:layout_gravity="center_vertical"
+            />
+
+        <ProgressBar
+            android:id="@+id/pb_very_good"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="288dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="16dp"
+            android:layout_weight="1"
+            android:progressDrawable="@drawable/custom_progress_bar" />
+        <TextView
+            android:id="@+id/tv_5_star_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:id="@+id/tv_good"
+            android:layout_width="96dp"
+            android:layout_height="wrap_content"
+            android:text="Tốt"
+            android:textSize="16dp"
+            android:layout_gravity="center_vertical"
+            />
+
+        <ProgressBar
+            android:id="@+id/pb_good"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="288dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="16dp"
+            android:layout_weight="1"
+            android:progressDrawable="@drawable/custom_progress_bar" />
+        <TextView
+            android:id="@+id/tv_4_star_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        >
+        <TextView
+            android:id="@+id/tv_avg"
+            android:layout_width="96dp"
+            android:layout_height="wrap_content"
+            android:text="Trung bình"
+            android:textSize="16dp"
+            android:layout_gravity="center_vertical"
+            />
+
+        <ProgressBar
+            android:id="@+id/pb_average"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="288dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="16dp"
+            android:layout_weight="1"
+            android:progressDrawable="@drawable/custom_progress_bar" />
+        <TextView
+            android:id="@+id/tv_3_star_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:id="@+id/tv_bad"
+            android:layout_width="96dp"
+            android:layout_height="wrap_content"
+            android:text="Tệ"
+            android:textSize="16dp"
+            android:layout_gravity="center_vertical"
+            />
+
+        <ProgressBar
+            android:id="@+id/pb_bad"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="288dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="16dp"
+            android:layout_weight="1"
+            android:progressDrawable="@drawable/custom_progress_bar" />
+        <TextView
+            android:id="@+id/tv_2_star_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        >
+        <TextView
+            android:id="@+id/tv_very_bad"
+            android:layout_width="96dp"
+            android:layout_height="wrap_content"
+            android:text="Cực tệ"
+            android:textSize="16dp"
+            android:layout_gravity="center_vertical"
+            />
+
+        <ProgressBar
+            android:id="@+id/pb_very_bad"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="288dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="16dp"
+            android:layout_weight="1"
+            android:progressDrawable="@drawable/custom_progress_bar" />
+        <TextView
+            android:id="@+id/tv_1_star_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

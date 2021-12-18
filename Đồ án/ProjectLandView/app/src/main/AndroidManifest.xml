@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.landview">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Landview">
+        <activity
+            android:name=".Map.MapActivity"
+            android:exported="true" />
+        <!-- For google map -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAfe9S1u-ZbDx0NmI0OeB2fmRoPdCdtxLg" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".UserFragmentSection.UserPlansActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChangePassword"
+            android:exported="false" />
+        <activity
+            android:name=".Comment.WriteCommentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NewsWeb"
+            android:exported="true" />
+        <activity
+            android:name=".News"
+            android:exported="true" />
+        <activity
+            android:name=".RestaurantDetail"
+            android:exported="true" />
+        <activity
+            android:name=".Weathernext"
+            android:exported="true" /> <!-- .RestaurantDetal -->
+        <activity
+            android:name=".TermsOfServices"
+            android:exported="true" />
+        <activity
+            android:name=".DetailArea"
+            android:exported="true" />
+        <activity
+            android:name=".HotelResDetail"
+            android:exported="true" />
+        <activity
+            android:name=".HotelDetail"
+            android:exported="true" />
+        <activity
+            android:name=".LauncherActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="true">
+
+            <!-- android:parentActivityName=".LauncherActivity" -->
+
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+
+            <!-- android:parentActivityName=".LauncherActivity" -->
+
+        </activity>
+        <activity
+            android:name=".ForgotPassActivity"
+            android:exported="true">
+
+            <!-- android:parentActivityName=".LoginActivity" -->
+
+        </activity>
+        <activity
+            android:name=".HomeFragmentSection.trips.Trips"
+            android:exported="true">
+
+            <!-- android:parentActivityName=".MainActivity" -->
+
+        </activity>
+        <activity
+            android:name=".HomeFragmentSection.Reviews.Review"
+            android:exported="true">
+
+            <!-- android:parentActivityName=".MainActivity" -->
+
+        </activity>
+        <activity
+            android:name=".Weather"
+            android:exported="true">
+
+            <!-- android:parentActivityName=".MainActivity" -->
+
+        </activity>
+        <activity
+            android:name=".Promotion"
+            android:exported="true">
+
+            <!-- android:parentActivityName=".MainActivity" -->
+
+        </activity>
+        <activity
+            android:name=".HomeFragmentSection.DetailReview.DetailHoguom"
+            android:exported="true">
+
+            <!-- android:parentActivityName=".HomeFragmentSection.Reviews.Review" -->
+
+        </activity>
+        <activity android:name=".LandScapeDetail" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".HomeFragmentSection.DetailReview.OverviewFragment.Overview">
+
+    <!-- TODO: Update blank fragment layout -->
+   <FrameLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+       <ScrollView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent">
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:orientation="vertical"
+               >
+               <TextView
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:id="@+id/txtDestination"
+                   android:textColor="@color/black"
+                   android:fontFamily="@font/lato_regular"
+                   android:textSize="18dp"
+                   />
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:orientation="horizontal">
+                   <ImageView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:layout_gravity="center_vertical"
+                       android:src="@drawable/directions_map_maps"
+                       android:scaleType="centerCrop"
+                       android:id="@+id/iconMaps"/>
+                   <ImageView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:layout_gravity="center_vertical"
+                       android:layout_marginStart="10dp"
+                       android:src="@drawable/favorite_heart_like_love"
+                       android:id="@+id/favoriteLike"/>
+                   <ImageView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:src="@drawable/weather_clouds"/>
+               </LinearLayout>
+               <TextView
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:text="Description"
+                   android:textColor="@color/black"
+                   android:textSize="20sp"
+                   android:fontFamily="@font/lato_bold"
+                   android:layout_marginBottom="10dp"
+                   />
+               <TextView
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:id="@+id/textDescription"
+                   android:textColor="@color/black"
+                   android:fontFamily="@font/lato_regular"
+                   android:textSize="15sp"/>
+           </LinearLayout>
+       </ScrollView>
+
+   </FrameLayout>
+
+</LinearLayout>

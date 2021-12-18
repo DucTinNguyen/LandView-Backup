@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/DoAn/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_favorite.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_travel.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_forgot_password.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_item_topreview.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_login.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/progress_bar.xml" value="0.25" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_hotel_detail.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_favorite.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_travel.xml" value="0.33" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_detail_area.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_hotel.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_hotel_item.xml" value="0.33" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_hotel_res_detail.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_item_slider.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_item_suggest_place.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_item_topreview.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_landscape_detail.xml" value="0.33" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_landscape_item.xml" value="0.22" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_resraurant_item.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_restaurant_item.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/clone/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_top_review_detail.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/origin/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_terms_of_services.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/origin/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_detail_area.xml" value="0.33" />
+        <entry key="..\:/Android Projects/DoAn/origin/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_item_slider.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/recent_update/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/custom_progress_bar.xml" value="0.11574074074074074" />
+        <entry key="..\:/Android Projects/DoAn/recent_update/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_hotel_detail.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/recent_update/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_restaurant_detail.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/recent_update/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_write_comment.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/recent_update/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_comment.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/recent_update/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_rating.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/recent_update/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_comment_item.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/recent_update/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_landscape_detail.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/recent_update/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_restaurant_item.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/super_new/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/hotel_red_24.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android Projects/DoAn/super_new/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/restaurant_blue_24.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android Projects/DoAn/super_new/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_hotel_detail.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/super_new/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_map.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/super_new/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_restaurant_detail.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/super_new/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_favorite.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/super_new/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_nearby_and_map.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/super_new/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_favorite_item.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/super_new/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_landscape_detail.xml" value="0.225" />
+        <entry key="..\:/Android Projects/DoAn/super_new/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_map_item.xml" value="0.225" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-Huy/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_user.xml" value="0.264" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-from-huy/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_hotel_detail.xml" value="0.19157608695652173" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-from-huy/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_favorite.xml" value="0.20652173913043478" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-from-huy/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_favorite_item.xml" value="0.19927536231884058" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-from-huy/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_hotel.xml" value="0.19157608695652173" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-from-huy/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_hotel_item.xml" value="0.19157608695652173" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-from-huy/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_hotel_res_detail.xml" value="0.19157608695652173" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-from-huy/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_hotel_utilities_items.xml" value="0.4" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master-newest/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_main.xml" value="0.21422101449275363" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master-newest/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_favorite.xml" value="0.21422101449275363" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master-newest/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_review.xml" value="0.21422101449275363" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master-newest/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_user.xml" value="0.21422101449275363" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master-newest/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_change_password.xml" value="0.264" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master-newest/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_favorite_items.xml" value="0.20652173913043478" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master-newest/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_login.xml" value="0.19927536231884058" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master-newest/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_review.xml" value="0.21422101449275363" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master-newest/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_review_item.xml" value="0.20652173913043478" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master-newest/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_signup.xml" value="0.19927536231884058" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master-newest/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_trips.xml" value="0.21422101449275363" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_favorite.xml" value="0.19927536231884058" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_home.xml" value="0.19927536231884058" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_image.xml" value="0.19927536231884058" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_overview.xml" value="0.19927536231884058" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-master/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_review.xml" value="0.4" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new-master-from-Huy/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_home.xml" value="0.19610507246376813" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new-master-from-Huy/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_review.xml" value="0.21829710144927536" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new-master-from-Tin - Copy/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_user_plans.xml" value="0.19429347826086957" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new-master-from-Tin - Copy/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_user.xml" value="0.19429347826086957" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new-master-from-Tin - Copy/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_for_user_plans.xml" value="0.2" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new-master-from-Tin/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/ic_baseline_flight_takeoff_24.xml" value="0.2755208333333333" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new-master-from-Tin/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/icon_changepass.xml" value="0.2755208333333333" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new-master-from-Tin/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_user_plans.xml" value="0.19791666666666666" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new-master-from-Tin/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_favorite.xml" value="0.19791666666666666" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new-master-from-Tin/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_home.xml" value="0.20153985507246377" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new-master-from-Tin/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_travel.xml" value="0.20153985507246377" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new-master-from-Tin/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_user.xml" value="0.2" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new-master-from-Tin/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_for_user_plans.xml" value="0.264" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView-new/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_favorite.xml" value="0.20153985507246377" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/custom_editext.xml" value="0.2755208333333333" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/custom_edittext_textarea.xml" value="0.2755208333333333" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_main.xml" value="0.20471014492753623" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_favorite.xml" value="0.20471014492753623" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_home.xml" value="0.20471014492753623" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_image.xml" value="0.20471014492753623" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_travel.xml" value="0.20471014492753623" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_user.xml" value="0.1852355072463768" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_trips.xml" value="0.264" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2755208333333333" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandView/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2755208333333333" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandViewBranch/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_main.xml" value="0.2006340579710145" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandViewBranch/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_home.xml" value="0.19927536231884058" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandViewBranch/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_laucher.xml" value="0.19927536231884058" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandViewBranch/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_login.xml" value="0.19927536231884058" />
+        <entry key="..\:/Coding_Stuff/Android_Project_official/LandViewBranch/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_signup.xml" value="0.19927536231884058" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/drawable/custom_bottom.xml" value="0.26979166666666665" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/drawable/custom_btn_find.xml" value="0.26666666666666666" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/drawable/custom_comments.xml" value="0.26666666666666666" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/drawable/custom_editext.xml" value="0.26979166666666665" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/drawable/custom_indicator.xml" value="0.26666666666666666" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/drawable/custom_linearlayout.xml" value="0.26666666666666666" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/font/font.xml" value="0.2838541666666667" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/activity_main.xml" value="0.23796296296296296" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/fragment_favorite.xml" value="0.25052083333333336" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/fragment_image.xml" value="0.25052083333333336" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/fragment_overview.xml" value="0.25052083333333336" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/fragment_review.xml" value="0.25052083333333336" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/fragment_travel.xml" value="0.25052083333333336" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/fragment_user.xml" value="0.25052083333333336" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_forgot_password.xml" value="0.25052083333333336" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_ha_noi_detail.xml" value="0.25052083333333336" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_hotel_hanoi.xml" value="0.23645833333333333" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_item_slider.xml" value="0.25052083333333336" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_item_suggest_place.xml" value="0.25052083333333336" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_item_topreview.xml" value="0.23645833333333333" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_laucher.xml" value="0.2358974358974359" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_login.xml" value="0.23958333333333334" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_news_item.xml" value="0.23645833333333333" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_promotion.xml" value="0.23645833333333333" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_review.xml" value="0.23645833333333333" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_review_detail_hoguom.xml" value="0.23645833333333333" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_review_image_hoguom.xml" value="0.23645833333333333" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_review_item.xml" value="0.25" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_service_home_fragment.xml" value="0.25052083333333336" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_service_item_home_fragment.xml" value="0.24666666666666667" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_signup.xml" value="0.23958333333333334" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_splash_screen.xml" value="0.25" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_trips.xml" value="0.23645833333333333" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/layout/layout_weather.xml" value="0.23645833333333333" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/menu/menu_bottom_navi.xml" value="0.25052083333333336" />
+        <entry key="..\:/FILE_PROJECT__ADR/ProjectLandView/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26979166666666665" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/custom_btn_favorite_find.xml" value="0.26614583333333336" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/custom_btn_user.xml" value="0.26614583333333336" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/custom_scrollview.xml" value="0.26614583333333336" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/ic_icon_policy.xml" value="0.26614583333333336" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/icon_changepass.xml" value="0.26614583333333336" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/icon_logout.xml" value="0.26614583333333336" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/icon_policy.xml" value="0.26614583333333336" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/drawable/right_arrow.xml" value="0.26614583333333336" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_terms_of_services.xml" value="0.25" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/favorite_item_topreview.xml" value="0.25" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_favorite.xml" value="0.264" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_travel.xml" value="0.264" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_user.xml" value="0.264" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_detail_area.xml" value="0.25" />
+        <entry key="..\:/UIT/AndroidStudio/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_item_topreview.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/Desktop/App Mobile/ProjectLandView/app/src/main/res/drawable/custom_see_map.xml" value="0.2703125" />
+        <entry key="..\:/Users/Asus/Desktop/App Mobile/ProjectLandView/app/src/main/res/layout/fragment_home.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/Asus/Desktop/App Mobile/ProjectLandView/app/src/main/res/layout/fragment_travel.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/Asus/Desktop/App Mobile/ProjectLandView/app/src/main/res/layout/layout_detail_area.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/Asus/Desktop/App Mobile/ProjectLandView/app/src/main/res/layout/layout_hotel.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/Asus/Desktop/App Mobile/ProjectLandView/app/src/main/res/layout/layout_hotel_res_detail.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/Desktop/App Mobile/ProjectLandView/app/src/main/res/layout/layout_item_topreview.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/Asus/Desktop/App Mobile/ProjectLandView/app/src/main/res/layout/layout_laucher.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/App Mobile/ProjectLandView/app/src/main/res/layout/layout_restaurant_item.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/Asus/Desktop/App Mobile/ProjectLandView/app/src/main/res/layout/layout_top_review_detail.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_favorite.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_image.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_overview.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_review.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_travel.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_user.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_forgot_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_ha_noi_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_hotel.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_hotel_hanoi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_item_slider.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_item_suggest_place.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_item_topreview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_launcher.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_news_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_promotion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_restaurant_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_review.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_review_detail_hoguom.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_review_image_hoguom.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_review_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_service_item_home_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_top_review_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_trips.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/AppMobile/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_weather.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/activity_news_web.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/Asus/Desktop/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_favorite.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/fragment_user.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/Desktop/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_activity_news.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Asus/Desktop/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_custom_dialog_user.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/Asus/Desktop/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_detail_area.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/Asus/Desktop/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_news_item.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Asus/Desktop/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_news_item_more.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Asus/Desktop/Do_an_phat_trien_ung_dung/ProjectLandView/app/src/main/res/layout/layout_review.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/ProjectLandView/app/src/main/res/layout/fragment_add.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Asus/Desktop/ProjectLandView/app/src/main/res/layout/fragment_my_promotion.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Asus/Desktop/ProjectLandView/app/src/main/res/layout/layout_mypromotion_item.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Asus/Desktop/ProjectLandView/app/src/main/res/layout/layout_promotion.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Asus/Desktop/ProjectLandView/app/src/main/res/layout/layout_promotion_item.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Asus/Desktop/ProjectLandView/app/src/main/res/layout/layout_resraurant_item.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Asus/Desktop/ProjectLandView/app/src/main/res/layout/layout_restaurant_item.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Asus/Desktop/ProjectLandView/app/src/main/res/layout/layout_trips.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Asus/Desktop/pJapp/ProjectLandView/app/src/main/res/layout/activity_weather_next.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Asus/Desktop/pJapp/ProjectLandView/app/src/main/res/layout/layout_activity_weather_next.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Asus/Desktop/pJapp/ProjectLandView/app/src/main/res/layout/layout_weather.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Asus/Desktop/pJapp/ProjectLandView/app/src/main/res/layout/layout_weather_next_item.xml" value="0.1675925925925926" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
